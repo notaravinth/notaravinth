@@ -14,7 +14,6 @@
 <a href="https://twitter.com/aravinthr04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aravinthr04" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/aravinthr04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aravinth ravichandran" height="30" width="40" /></a>
 <a href="https://instagram.com/whoisaravinth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="whoisaravinth" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/aravinthravicha1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aravinthravicha1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
